@@ -5,8 +5,8 @@
 * `pip2 install requests`
 * `pkg install git`
 * `git clone https://github.com/yunoCE/autodeface`
-* `cd AOXdeface`
-* `python2 aox.py`
+* `cd autodeface`
+* `python2 yuno.py`
 
 **Linux:**
 * `apt-get install python`
@@ -14,7 +14,7 @@
 * `pip install requests`
 * `apt-get install git`
 * `git clone https://github.com/yunoCE/autodeface`
-* `cd AOXdeface`
-* `python aox.py`
+* `cd autodeface`
+* `python yuno.py`
 
 **NOTE:** before using this tool, put your deface script with the aox.py file, edit the file 'target.txt' and enter the target url
